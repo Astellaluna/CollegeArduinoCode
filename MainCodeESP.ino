@@ -3,10 +3,10 @@ ong#include <ESP8266WiFi.h>
 #include <NTPClient.h>
 #include <WiFiUdp.h>
 
-#define FIREBASE_HOST "thesis-gas-values.firebaseio.com"
-#define FIREBASE_AUTH "mlrXbqCFxVNimFElBS0RT8nlVjQfrSSdlqkGlGZR"
-const char* ssid     = "YvRedAngelvY";
-const char* password = "YvRedAngelvY";
+#define FIREBASE_HOST "-"
+#define FIREBASE_AUTH "-"
+const char* ssid     = "-";
+const char* password = "-";
 
 //For Date&Time
 WiFiUDP ntpUDP;
